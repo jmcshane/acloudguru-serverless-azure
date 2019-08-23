@@ -1,0 +1,7 @@
+{
+  "name" : "Jimmy Mac",
+  "title" : "Awesome Dood",
+  "location" : "Minneapolis",
+  "skills" : ["Being Awesome", "DevOps"],
+  "headshotUri" : "https://google.com"
+}
