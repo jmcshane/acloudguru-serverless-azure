@@ -1,0 +1,7 @@
+{
+  "id" : 1,
+  "name" : "Jimmy Mac",
+  "title" : "Awesome Dood",
+  "location" : "Minneapolis",
+  "skills" : ["Being Awesome", "DevOps"]
+}

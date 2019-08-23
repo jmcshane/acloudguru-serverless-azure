@@ -1,0 +1,30 @@
+Did not detect a `bs-config.json` or `bs-config.js` override file. Using lite-server defaults...
+** browser-sync config **
+{
+  injectChanges: false,
+  files: [ './**/*.{html,htm,css,js}' ],
+  watchOptions: { ignored: 'node_modules' },
+  server: { baseDir: './', middleware: [ [Function], [Function] ] }
+}
+[Browsersync] Access URLs:
+ -------------------------------------
+       Local: http://localhost:3000
+    External: http://192.168.0.20:3000
+ -------------------------------------
+          UI: http://localhost:3001
+ UI External: http://localhost:3001
+ -------------------------------------
+[Browsersync] Serving files from: ./
+[Browsersync] Watching files...
+[90m19.08.22 20:26:51[0m [36m304[0m [35mGET[0m [90m/index.html[0m
+[90m19.08.22 20:26:51[0m [33m404[0m [35mGET[0m [90m/main.css[0m
+[90m19.08.22 20:26:51[0m [36m304[0m [35mGET[0m [90m/constants.js[0m
+[90m19.08.22 20:26:51[0m [33m404[0m [35mGET[0m [90m/main.css[0m
+[90m19.08.22 20:26:53[0m [36m304[0m [35mGET[0m [90m/index.html[0m
+[90m19.08.22 20:26:53[0m [33m404[0m [35mGET[0m [90m/main.css[0m
+[90m19.08.22 20:26:53[0m [36m304[0m [35mGET[0m [90m/constants.js[0m
+[90m19.08.22 20:26:53[0m [33m404[0m [35mGET[0m [90m/main.css[0m
+[90m19.08.22 20:53:00[0m [36m304[0m [35mGET[0m [90m/index.html[0m
+[90m19.08.22 20:53:00[0m [33m404[0m [35mGET[0m [90m/main.css[0m
+[90m19.08.22 20:53:00[0m [36m304[0m [35mGET[0m [90m/constants.js[0m
+[90m19.08.22 20:53:00[0m [33m404[0m [35mGET[0m [90m/main.css[0m
