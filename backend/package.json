@@ -6,7 +6,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "mongodb": "^3.3.0",
     "uuid": "^3.3.3"
   },
